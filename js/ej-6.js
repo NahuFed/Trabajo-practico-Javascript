@@ -3,7 +3,7 @@ if(isNaN(numero1)===false){
     let numero2 = parseInt(prompt("escriba otro numero"))
     
     if(isNaN(numero2) === false){
-        if (numero1>numero2){
+        if (numero1>=numero2){
             document.write('el numero mayor es ',numero1)
         }else {
             document.write('el numero mayor es ',numero2)
