@@ -1,2 +1,2 @@
-nombre=prompt("Ingrese su nombre")
+let nombre=prompt("Ingrese su nombre")
 document.write("Hola ",nombre)
