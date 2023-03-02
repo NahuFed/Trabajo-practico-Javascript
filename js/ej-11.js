@@ -18,4 +18,6 @@ if (isNaN(numero) === false){
     }else{
         document.write('el numero NO es divisible en 2, 3, 5 o 7')
     }
+}else{
+    alert('usted no ingreso un numero')
 }
